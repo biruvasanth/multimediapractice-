@@ -11,8 +11,7 @@ img src="anotherfolder name\images.jpg" alt="refresh">
 
 
 alt attribute
-
-specify a alternative text for img 
+    specify a alternative text for img 
 
 
 style attribute 
@@ -21,3 +20,5 @@ style ="width:80px;   height:"50px" ;   "
 
 
 links.html
+
+
